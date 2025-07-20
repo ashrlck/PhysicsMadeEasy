@@ -22,13 +22,6 @@ A modern, AI-powered educational platform for A-Level Mathematics and Physics, b
 - **SQLite** (local database)
 - **OpenAI API** (AI question generation)
 
-## Screenshots
-
-![Main Menu](docs/screenshots/main_menu.png)
-![Calculator](docs/screenshots/calculator.png)
-![Graphical Calculator](docs/screenshots/graphical_calculator.png)
-![Simulations](docs/screenshots/simulations.png)
-
 ## Getting Started
 
 ### Prerequisites
@@ -38,8 +31,8 @@ A modern, AI-powered educational platform for A-Level Mathematics and Physics, b
 ### Installation
 ```bash
 # Clone the repository
-https://github.com/yourusername/alevel-maths-physics-app.git
-cd alevel-maths-physics-app
+https://github.com/yourusername/PhysicsMadeEasy.git
+cd PhysicsMadeEasy
 
 # Create a virtual environment (recommended)
 python -m venv venv
@@ -90,6 +83,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-**Created by [Your Name]**
+**Created by [Aiden Sherlock]**
 
 *Empowering the next generation of scientists and engineers.* 
