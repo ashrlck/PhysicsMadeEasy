@@ -1,0 +1,12 @@
+{
+  "gui_preferences": {
+    "layout": "default",
+    "theme": "dark"
+  },
+  "accessibility": {
+    "colorblind_mode": "none",
+    "text_size": "medium",
+    "font_family": "Inter"
+  },
+  "volume": 0.7
+}
